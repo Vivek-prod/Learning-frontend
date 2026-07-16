@@ -1,0 +1,32 @@
+* {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+div {
+    color: rgb(184, 45, 68);
+    
+}
+.alert{
+    color: red;
+    
+}
+
+#heading{
+    color: rgb(26, 128, 216);
+    background-color: yellow;
+    font-family: "times new roman",sans-serif;
+    font-size: 100px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.big,.alert{
+    background-color: black;
+}
+
+.image{
+    width: auto;
+    height: 500px;
+}

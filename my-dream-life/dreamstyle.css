@@ -1,0 +1,65 @@
+<<<<<<< HEAD
+h1{
+    text-align: center;
+    color: #0f0a0a;
+}
+ body{
+    background-color: #26b1d0;
+ }
+
+h3{
+    color: #0f0a0a;
+}
+p{
+    color: #2d2c2a;
+}
+ol{
+    color: #2d2c2a;
+
+}
+ul{
+    color: #2d2c2a;
+}
+
+.image{
+    width: 100px;
+    height: auto;
+}
+
+h6{
+    text-align: center;
+}
+=======
+* {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+div {
+    color: rgb(184, 45, 68);
+    
+}
+.alert{
+    color: red;
+    
+}
+
+#heading{
+    color: rgb(26, 128, 216);
+    background-color: yellow;
+    font-family: "times new roman",sans-serif;
+    font-size: 100px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.big,.alert{
+    background-color: black;
+}
+
+.image{
+    width: auto;
+    height: 500px;
+}
+>>>>>>> 815681f5798c5f8f1c05e8585f325759baeaf8d8
