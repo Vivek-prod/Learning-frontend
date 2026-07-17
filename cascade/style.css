@@ -1,0 +1,22 @@
+#subsection{
+    background-color: yellow;
+    color: blue;
+}
+.main #subsection{
+    color: red;
+    background-color: pink;
+}
+
+#parent{
+    color: yellow;
+}
+.child{
+    color: blue;
+}
+
+.we{
+    color: red;
+}
+.win{
+    color: magenta;
+}
