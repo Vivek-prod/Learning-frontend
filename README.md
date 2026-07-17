@@ -27,5 +27,10 @@ This repository documents my journey of learning frontend development from scrat
 - CSS Cascade
 - Specificity
 - Inheritance
+- learned box model
+- Learned Flexbox
+- Built a Flexbox practice page
+- Built a Personal Mission Landing Page
+- Improved my understanding of CSS layouts and parent-child relationships
 
 More updates coming...
