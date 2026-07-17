@@ -1,0 +1,32 @@
+.head{
+    /* outline: 2px solid red; */
+    padding: 100px;
+    color: yellow;
+    background-color: pink;
+    text-align: center;
+  
+    margin: 100px;
+}
+.n{
+    color: purple;
+
+    font-size: 50px;
+}
+
+div{
+    padding: 30px;
+    color: black;
+    background-color: pink;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.info{
+    background-color: brown;
+}
+.contact{
+    background-color: chocolate;
+
+}
+.home{
+    background-color: lightgoldenrodyellow;
+}
